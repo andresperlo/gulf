@@ -34,22 +34,22 @@ function HomePages() {
             <div className="container">
                 <h2 className='pb-3 h2-css'>Cafeteria</h2>
                 <div className="card-columns">
-                    <div className="card">
-                        <img src={cafe} className="card-img-top" alt="..." />
+                    <div className="card border border-dark">
+                        <img src={cafe} className="card-img-top border-bottom border-dark" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title">Cafe Negro</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
-                    <div className="card">
-                        <img src={cafeconleche} className="card-img-top" alt="..." />
+                    <div className="card border border-dark">
+                        <img src={cafeconleche} className="card-img-top border-bottom border-dark" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title">Cafe Con Leche</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
-                    <div className="card">
-                        <img src={cortadito} className="card-img-top" alt="..." />
+                    <div className="card border border-dark">
+                        <img src={cortadito} className="card-img-top border-bottom border-dark" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title">Cortadito</h5>
                             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -61,43 +61,43 @@ function HomePages() {
                 <h2 className='py-3 h2-css'>Cocina</h2>
                 <div className="card-columns">
                     <div>
-                        <div className="card">
-                            <img src={empanadas} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={empanadas} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Empanadas Tucumanas</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={asado} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={asado} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Asado Tradicional</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={humita} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={humita} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Humita al Plato</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={sandwich} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={sandwich} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Sandwich</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={tamales} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={tamales} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Tamales Tucumanos</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={napo} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={napo} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Napolitana Para Dos</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -110,22 +110,22 @@ function HomePages() {
                 <h2 className='pb-3 h2-css'>Bebidas</h2>
                 <div className="card-columns">
                     <div>
-                        <div className="card">
-                            <img src={cerveza} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={cerveza} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Bebidas con Alcohol</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={gaseosas} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={gaseosas} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Bebidas Sin Alcohol</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div className="card">
-                            <img src={aguas} className="card-img-top" alt="..." />
+                        <div className="card border border-dark">
+                            <img src={aguas} className="card-img-top border-bottom border-dark" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">Agua Saborizada</h5>
                                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -135,7 +135,7 @@ function HomePages() {
                 </div>
             </div>
             <div>
-                <footer className='py-3 bg-dark text-white footer-css'>
+                <footer className='py-3 text-white footer-css'>
                     <div className='ml5-css'>
                         <img src={logo} className='img-logo' alt="" />
                     </div>
