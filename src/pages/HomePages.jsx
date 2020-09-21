@@ -34,25 +34,25 @@ function HomePages() {
             <div className="container">
                 <h2 className='pb-3 h2-css'>Cafeteria</h2>
                 <div className="card-columns">
-                    <div class="card">
-                        <img src={cafe} class="card-img-top" alt="..." />
-                        <div class="card-body">
-                            <h5 class="card-title">Cafe Negro</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div className="card">
+                        <img src={cafe} className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Cafe Negro</h5>
+                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
-                    <div class="card">
-                        <img src={cafeconleche} class="card-img-top" alt="..." />
-                        <div class="card-body">
-                            <h5 class="card-title">Cafe Con Leche</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div className="card">
+                        <img src={cafeconleche} className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Cafe Con Leche</h5>
+                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
-                    <div class="card">
-                        <img src={cortadito} class="card-img-top" alt="..." />
-                        <div class="card-body">
-                            <h5 class="card-title">Cortadito</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <div className="card">
+                        <img src={cortadito} className="card-img-top" alt="..." />
+                        <div className="card-body">
+                            <h5 className="card-title">Cortadito</h5>
+                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                     </div>
                 </div>
@@ -61,46 +61,46 @@ function HomePages() {
                 <h2 className='py-3 h2-css'>Cocina</h2>
                 <div className="card-columns">
                     <div>
-                        <div class="card">
-                            <img src={empanadas} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Empanadas Tucumanas</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={empanadas} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Empanadas Tucumanas</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={asado} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Asado Tradicional</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={asado} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Asado Tradicional</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={humita} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Humita al Plato</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={humita} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Humita al Plato</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={sandwich} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Sandwich</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={sandwich} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Sandwich</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={tamales} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Tamales Tucumanos</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={tamales} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Tamales Tucumanos</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={napo} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Napolitana Para Dos</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={napo} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Napolitana Para Dos</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
                     </div>
@@ -110,25 +110,25 @@ function HomePages() {
                 <h2 className='pb-3 h2-css'>Bebidas</h2>
                 <div className="card-columns">
                     <div>
-                        <div class="card">
-                            <img src={cerveza} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Bebidas con Alcohol</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={cerveza} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Bebidas con Alcohol</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={gaseosas} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Bebidas Sin Alcohol</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={gaseosas} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Bebidas Sin Alcohol</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <img src={aguas} class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Agua Saborizada</h5>
-                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <div className="card">
+                            <img src={aguas} className="card-img-top" alt="..." />
+                            <div className="card-body">
+                                <h5 className="card-title">Agua Saborizada</h5>
+                                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                             </div>
                         </div>
                     </div>
@@ -140,12 +140,12 @@ function HomePages() {
                         <img src={logo} className='img-logo' alt="" />
                     </div>
                     <div className='text-center'>
-                        <h2>Hacer Pedidos:<br /> <i class="fas fa-phone-volume py-3"></i> 381 603 6303</h2>
-                        <h4><i class="fas fa-map-marker-alt"></i> Av. Siria 1968</h4>
+                        <h2>Hacer Pedidos:<br /> <i className="fas fa-phone-volume py-3"></i> 381 603 6303</h2>
+                        <h4><i className="fas fa-map-marker-alt"></i> Av. Siria 1968</h4>
                     </div>
                     <div className='mr5-css text-center'>
                         <h4 className='pb-3'>Haz cick para ver como llegar</h4>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.7244576122078!2d-65.20442587848555!3d-26.803253375792462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c324224fc93%3A0xcfd53fbd8b316e29!2sLa%20Diagonal%20GNC!5e0!3m2!1ses!2sar!4v1600694297513!5m2!1ses!2sar" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.7244576122078!2d-65.20442587848555!3d-26.803253375792462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c324224fc93%3A0xcfd53fbd8b316e29!2sLa%20Diagonal%20GNC!5e0!3m2!1ses!2sar!4v1600694297513!5m2!1ses!2sar"  aria-hidden="false"></iframe>
                     </div>
                 </footer>
             </div>
