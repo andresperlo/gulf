@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd0c551b29efbd6fcd28800355c3d02c",
+    "revision": "a2b0831a9d9a3d2b4a140c0a7edf737d",
     "url": "/gulf/index.html"
   },
   {
-    "revision": "5b02b6d00ee87ab2ddd9",
-    "url": "/gulf/static/css/main.9afabbf1.chunk.css"
+    "revision": "3fea91e9acbaab10cd9b",
+    "url": "/gulf/static/css/main.da8423f9.chunk.css"
   },
   {
     "revision": "ce2b34d447f88ada6106",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf/static/js/2.6b7c9363.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b02b6d00ee87ab2ddd9",
-    "url": "/gulf/static/js/main.e1b5b05a.chunk.js"
+    "revision": "3fea91e9acbaab10cd9b",
+    "url": "/gulf/static/js/main.390d6b07.chunk.js"
   },
   {
     "revision": "ba7bdba978d40b92082b",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf/static/media/humita.5bbb85bb.jpg"
   },
   {
-    "revision": "46094eb9a0579087843a2b3621acc40a",
-    "url": "/gulf/static/media/img1.46094eb9.jpg"
+    "revision": "667552b14c1dcfa23ff6aa35c704871f",
+    "url": "/gulf/static/media/img1.667552b1.jpg"
   },
   {
     "revision": "c23dcc631a73029c2fe049a004c61a8c",
