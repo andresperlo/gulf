@@ -21,12 +21,27 @@ function HomePages() {
         <div>
             <div className='d-flex justify-content-center'>
                 {/* Autor: Andres Perlo - CEl 3814443123 */}
-                <div className='div-gulf'>
-                    <h1>Gulf Tucuman</h1>
-                    <h3>Restobar & Drugstore</h3>
-                    <h5>Comidas, Bebidas y Golosinas</h5>
+                <div className='d-flex'>
+                    <div className='div-gulf' /* style={{ marginLeft: '800px', marginTop: '300px' }} */>
+                        <h1>Gulf Tucuman</h1>
+                        <h3>LA DIAGONAL</h3>
+                        <h5>Estacion de Servicio</h5>
+                        <h5>GNC - Liquidos - Lubricantes</h5>
+                        <h5>Av. Siria 1968</h5>
+                        <h5>San Miguel de Tucuman</h5>
+                        <h1>TUCUMAN - ARGENTINA</h1>
+                    </div>
+                    <div className='div-gulf-store'>
+                        <h1 className='p-0 m-0'>100% Gulf Store</h1>
+                        <div>
+                            <p className='p-class p-0 m-0'></p>
+                            <p className='p-class-orange'></p>
+                        </div>
+                    </div>
+
                 </div>
                 <img src={img1} className='img-gulf' alt="" />
+
             </div>
             <div className='pt-5 pb-3 text-center'>
                 <h3>Nuestro Menu</h3>
@@ -145,7 +160,7 @@ function HomePages() {
                     </div>
                     <div className='mr5-css text-center'>
                         <h4 className='pb-3'>Haz cick para ver como llegar</h4>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.7244576122078!2d-65.20442587848555!3d-26.803253375792462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c324224fc93%3A0xcfd53fbd8b316e29!2sLa%20Diagonal%20GNC!5e0!3m2!1ses!2sar!4v1600694297513!5m2!1ses!2sar"  aria-hidden="false"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.7244576122078!2d-65.20442587848555!3d-26.803253375792462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225c324224fc93%3A0xcfd53fbd8b316e29!2sLa%20Diagonal%20GNC!5e0!3m2!1ses!2sar!4v1600694297513!5m2!1ses!2sar" aria-hidden="false"></iframe>
                     </div>
                 </footer>
             </div>
